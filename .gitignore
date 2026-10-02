@@ -4,3 +4,4 @@ out/
 *.tsbuildinfo
 .env*
 .next-build/
+.next-pages-check/
